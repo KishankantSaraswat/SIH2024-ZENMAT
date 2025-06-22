@@ -11,4 +11,4 @@ ZenMat is a smart yoga mat that helps users improve their yoga practice by provi
 ![image](https://github.com/user-attachments/assets/3b284fd4-980a-485c-a0e5-a566e8275c82)
 
 ----
-demo link:- https://drive.google.com/file/d/1wNffudoiDDrfN9YG69NrvaTVsvzi79_i/view?usp=sharing
+demo link:- https://sih2024-zenmat-1.onrender.com/
